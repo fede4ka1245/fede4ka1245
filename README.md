@@ -15,6 +15,6 @@
 [**calculator-keyboard**](https://www.npmjs.com/package/calculator-keyboard) is the Calculator keyboard component built with clear TypeScript and CSS. It can be useful for number inputs where users need to perform calculations.
 
 ## Contact
-[**Telegram**](https://t.me/Fedechka)
-[**Email**](mailto:bragin.fedor96@gmail.com)
+[**Telegram**](https://t.me/Fedechka) <br/>
+[**Email**](mailto:bragin.fedor96@gmail.com) <br/>
 [**Resume**](https://bragin-f.notion.site/Bragin-Fedor-9496507c13254bd4b4ff5411a2e2cd70)
