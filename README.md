@@ -13,5 +13,3 @@
 
 ## Contact
 [**Telegram**](https://t.me/Fedechka) <br/>
-[**Email**](mailto:bragin.fedor96@gmail.com) <br/>
-[**Resume**](https://bragin-f.notion.site/Bragin-Fedor-9496507c13254bd4b4ff5411a2e2cd70)
